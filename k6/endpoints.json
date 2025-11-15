@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Beeceptor POST Test",
+    "url": "https://mpcb3d6e5986a219ef3c.free.beeceptor.com/sowmyaz1",
+    "method": "POST",
+    "payload": {
+      "message": "hello-world"
+    }
+  },
+  {
+    "name": "Beeceptor GET Test",
+    "url": "https://mp6d49a45aade696ea8c.free.beeceptor.com/test1",
+    "method": "GET",
+    "payload": {}
+  }
+]
+
